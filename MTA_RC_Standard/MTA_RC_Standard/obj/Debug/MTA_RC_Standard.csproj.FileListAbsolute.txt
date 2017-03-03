@@ -1,9 +1,0 @@
-c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Standard\MTA_RC_Standard\bin\Debug\MTA_RC_Standard.dll.config
-c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Standard\MTA_RC_Standard\bin\Debug\MTA_RC_Standard.dll
-c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Standard\MTA_RC_Standard\bin\Debug\MTA_RC_Standard.pdb
-c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Standard\MTA_RC_Standard\bin\Debug\RightNow.AddIns.AddInViews.dll
-c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Standard\MTA_RC_Standard\bin\Debug\RightNow.AddIns.AddInViews.xml
-c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Standard\MTA_RC_Standard\obj\Debug\MTA_RC_Standard.Properties.Resources.resources
-c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Standard\MTA_RC_Standard\obj\Debug\MTA_RC_Standard.csproj.GenerateResource.Cache
-c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Standard\MTA_RC_Standard\obj\Debug\MTA_RC_Standard.dll
-c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Standard\MTA_RC_Standard\obj\Debug\MTA_RC_Standard.pdb

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartAction>Project</StartAction>
-    <StartProgram>C:\Users\admin\AppData\Local\Apps\2.0\TE4E87WJ.ONQ\55HQ1PAO.DJY\righ..tst2_d163e684c1e033df_000f.000b_c63ec74cd9a4c1a5\RightNow.CX.exe</StartProgram>
-    <StartArguments>/auto=true /user=mta-nyc--pro2.custhelp.com\ryan.young_RNT /dbname=mta_nyc.cfg</StartArguments>
-  </PropertyGroup>
-</Project>
