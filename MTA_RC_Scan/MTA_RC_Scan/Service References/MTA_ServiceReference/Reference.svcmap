@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="93bd51ca-8988-4532-a7db-635e1170ea16" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://mta-nyc--pro2.custhelp.com/cgi-bin/mta_nyc.cfg/services/soap?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="soap.xsd" MetadataType="Schema" ID="338251bd-9225-47cf-af4a-8a67b723a4e7" SourceId="1" SourceUrl="https://mta-nyc--pro2.custhelp.com/cgi-bin/mta_nyc.cfg/services/soap?xsd=metadata" />
+    <MetadataFile FileName="RightNow.wsdl" MetadataType="Wsdl" ID="69d3e76f-a9eb-4c7f-82b8-e203b3dc7f6a" SourceId="1" SourceUrl="https://mta-nyc--pro2.custhelp.com/cgi-bin/mta_nyc.cfg/services/soap?wsdl" />
+    <MetadataFile FileName="soap1.xsd" MetadataType="Schema" ID="fbb044d0-c072-4ae9-91e1-d5a28e2d913a" SourceId="1" SourceUrl="https://mta-nyc--pro2.custhelp.com/cgi-bin/mta_nyc.cfg/services/soap?xsd=messagestyped" />
+    <MetadataFile FileName="soap2.xsd" MetadataType="Schema" ID="d2103b70-3549-4e4a-91bb-89849b651df1" SourceId="1" SourceUrl="https://mta-nyc--pro2.custhelp.com/cgi-bin/mta_nyc.cfg/services/soap?xsd=objects" />
+    <MetadataFile FileName="soap3.xsd" MetadataType="Schema" ID="e8005511-97b5-400f-8dc6-611d9a891b90" SourceId="1" SourceUrl="https://mta-nyc--pro2.custhelp.com/cgi-bin/mta_nyc.cfg/services/soap?xsd=faults" />
+    <MetadataFile FileName="soap4.xsd" MetadataType="Schema" ID="c70edbc2-44db-41bd-920e-1b4dc4b9047f" SourceId="1" SourceUrl="https://mta-nyc--pro2.custhelp.com/cgi-bin/mta_nyc.cfg/services/soap?xsd=generic" />
+    <MetadataFile FileName="soap5.xsd" MetadataType="Schema" ID="b223a011-c177-4c6b-a118-14ef9ce9481c" SourceId="1" SourceUrl="https://mta-nyc--pro2.custhelp.com/cgi-bin/mta_nyc.cfg/services/soap?xsd=base" />
+    <MetadataFile FileName="soap6.xsd" MetadataType="Schema" ID="a2439174-3aa5-4cff-997f-bb540edcf3eb" SourceId="1" SourceUrl="https://mta-nyc--pro2.custhelp.com/cgi-bin/mta_nyc.cfg/services/soap?xsd=nullfields" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

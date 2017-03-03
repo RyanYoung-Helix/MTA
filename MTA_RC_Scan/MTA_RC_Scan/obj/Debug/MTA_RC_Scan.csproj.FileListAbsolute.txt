@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Scan\MTA_RC_Scan\obj\Debug\Interop.WIA.dll
+c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Scan\MTA_RC_Scan\obj\Debug\MTA_RC_Scan.csproj.ResolveComReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Scan\MTA_RC_Scan\obj\Debug\MTA_RC_Scan.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Scan\MTA_RC_Scan\obj\Debug\MTA_RC_Scan.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Scan\MTA_RC_Scan\bin\Debug\MTA_RC_Scan.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Scan\MTA_RC_Scan\bin\Debug\MTA_RC_Scan.dll
+c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Scan\MTA_RC_Scan\bin\Debug\MTA_RC_Scan.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Scan\MTA_RC_Scan\bin\Debug\RightNow.AddIns.AddInViews.dll
+c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Scan\MTA_RC_Scan\bin\Debug\SautinSoft.PdfVision.dll
+c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Scan\MTA_RC_Scan\bin\Debug\RightNow.AddIns.AddInViews.xml
+c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Scan\MTA_RC_Scan\obj\Debug\MTA_RC_Scan.dll
+c:\users\admin\documents\visual studio 2015\Projects\MTA_RC_Scan\MTA_RC_Scan\obj\Debug\MTA_RC_Scan.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MTA_RC_Scan\MTA_RC_Scan\obj\Debug\MTA_RC_Scan.csprojResolveAssemblyReference.cache
